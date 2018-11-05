@@ -1,0 +1,61 @@
+0.0|ukenglishmale|Phenom 300 Limitations
+
+0.0|ukenglishmale|Weights
+
+0.0|ukenglishmale|Max Ramp (MRW)
+1.0.0|usenglishmale|18,078
+0.0|ukenglishmale|Max Takeoff (MTOW)
+1.0.0|usenglishmale|17,968
+0.0|ukenglishmale|Max Landing (MLW)
+1.0.0|usenglishmale|16,865
+0.0|ukenglishmale|Max Zero Fuel (MZFW)
+1.0.0|usenglishmale|13,999
+For Airplanes Post Mod SB 505-00-0008
+0.0|ukenglishmale|Max Ramp (MRW)
+1.0.0|usenglishmale|18,497
+0.0|ukenglishmale|Max Takeoff (MTOW)
+1.0.0|usenglishmale|18,387
+0.0|ukenglishmale|Max Landing (MLW)
+1.0.0|usenglishmale|17,042
+0.0|ukenglishmale|Max Zero Fuel (MZFW)
+1.0.0|usenglishmale|14,220
+
+0.0|ukenglishmale|Airspeeds
+
+0.0|ukenglishmale|VLO
+1.0.0|usenglishmale|250 KIAS
+0.0|ukenglishmale|VLE
+1.0.0|usenglishmale|250 KIAS
+0.0|ukenglishmale|Takeoff VMC
+1.0.0|usenglishmale|97 KIAS
+0.0|ukenglishmale|Landing VMC (No Icing Conditions)
+1.0.0|usenglishmale|91 KIAS
+0.0|ukenglishmale|Landing VMC (Icing Conditions)
+1.0.0|usenglishmale|95 KIAS
+0.0|ukenglishmale|MMO
+1.0.0|usenglishmale|0.78M
+0.0|ukenglishmale|VO
+1.0.0|usenglishmale|205 KIAS
+0.0|ukenglishmale|VFE Flaps 1
+1.0.0|usenglishmale|180 KIAS
+0.0|ukenglishmale|VFE Flaps 2&3
+1.0.0|usenglishmale|170 KIAS
+0.0|ukenglishmale|VFE Flaps FULL
+1.0.0|usenglishmale|160 KIAS
+0.0|ukenglishmale|Maximum Tire Speed
+1.0.0|usenglishmale|182 KGS
+0.0|ukenglishmale|Min Mach for SAT -54°C to-65°C
+1.0.0|usenglishmale|0.55M
+0.0|ukenglishmale|Min Mach for SAT -65°C to-70°C
+1.0.0|usenglishmale|0.67M
+
+0.0|ukenglishmale|Electrical
+
+0.0|ukenglishmale|Min Bat Voltage for Start
+1.0.0|usenglishmale|24V
+0.0|ukenglishmale|Min GPU Voltage for Bat Charge
+1.0.0|usenglishmale|27V
+0.0|ukenglishmale|Generator Load on Ground
+1.0.0|usenglishmale|330 A Each
+0.0|ukenglishmale|Generator Load in Flight
+1.0.0|usenglishmale|390 A Each

@@ -1,0 +1,175 @@
+0.0|ukenglishmale|Feenom 300 Memory Items
+
+1.0|ukenglishfemale|Dual Engine Failure
+1.0.0|usenglishmale|Thrust Levers
+1.0.1|usenglishfemale|IDLE
+1.0.2|usenglishmale|Crew Oxygen Masks
+1.0.3|usenglishfemale|Don, 100%
+1.0.4|usenglishmale|Communication
+1.0.5|usenglishfemale|ESTABLISH
+
+2.0|ukenglishmale|Emergency Descent
+2.0.0|usenglishmale|SIGNS and OUTLET Switch
+2.0.1|usenglishfemale|PEDs BELTS, Off
+2.0.2|usenglishmale|Altitude Selector
+2.0.3|usenglishfemale|10,000 feet or MEA
+2.0.4|usenglishmale|Thrust Levers
+2.0.5|usenglishfemale|IDLE
+2.0.6|usenglishmale|SPEED BRAKE Switch
+2.0.7|usenglishfemale|OPEN
+2.0.8|usenglishmale|Airspeed
+2.0.9|usenglishfemale|250, MMO MAXIMUM
+2.0.10|usenglishmale|Landing GEAR Lever
+2.0.11|usenglishfemale|Down
+2.0.12|usenglishmale|Transponder
+2.0.13|usenglishfemale|Seventy Seven Hundred
+2.0.14|usenglishmale|ATC
+2.0.15|usenglishfemale|NOTIFY
+
+3.0|ukenglishmale|Emergency Evacuation
+3.0.0|usenglishmale|Thrust Levers
+3.0.1|usenglishfemale|IDLE
+3.0.2|usenglishmale|Emergency Parking Brake
+3.0.3|usenglishfemale|On
+3.0.4|usenglishmale|Start Stop Knobs
+3.0.5|usenglishfemale|STOP
+3.0.6|usenglishmale|SHUTOFF Buttons 1 and 2
+3.0.7|usenglishfemale|Push In
+3.0.8|usenglishmale|Pressurization MODE Switch
+3.0.9|usenglishfemale|Manual
+3.0.10|usenglishmale|Pressurization DUMP Button
+3.0.11|usenglishfemale|Push In
+3.0.12|usenglishmale|ATC
+3.0.13|usenglishfemale|NOTIFY
+3.0.14|usenglishmale|Emergency Evacuation
+3.0.15|usenglishfemale|PERFORM
+3.0.16|usenglishmale|Battery 1 & 2 Switches
+3.0.17|usenglishfemale|Off
+
+4.0|ukenglishmale|Engine Abnormal Start
+4.0.0|usenglishmale|Start Stop Knob
+4.0.1|usenglishfemale|STOP
+
+5.0|ukenglishmale|Engine Fire, Severe Damage or Separation
+5.0.0|usenglishmale|Thrust Lever
+5.0.1|usenglishfemale|IDLE
+5.0.2|usenglishmale|Start Stop Knob
+5.0.3|usenglishfemale|STOP
+5.0.4|usenglishmale|Fire Shutoff Button
+5.0.5|usenglishfemale|Push In
+
+6.0|ukenglishmale|Rejected Takeoff, at, or below V1
+6.0.0|usenglishmale|Thrust Levers
+6.0.1|usenglishfemale|IDLE
+6.0.2|usenglishmale|Brakes
+6.0.3|usenglishfemale|APPLY MAXIMUM
+6.0.4|usenglishmale|Directional Control
+6.0.5|usenglishfemale|MAINTAIN
+
+7.0|ukenglishmale|Engine Failure Above V1
+7.0.0|usenglishmale|At VR rotate to
+7.0.1|usenglishfemale|for flaps 1,
+7.0.2|usenglishfemale|ten and a half degrees
+7.0.3|usenglishfemale|or for flaps 2,
+7.0.4|usenglishfemale|8 degrees
+7.0.5|usenglishmale|With positive rate of climb,,
+7.0.6|usenglishmale|Landing GEAR Lever
+7.0.7|usenglishfemale|Up
+7.0.8|usenglishmale|Airspeed
+7.0.9|usenglishfemale|V2
+
+8.0|ukenglishmale|Inadvertent Pusher Actuation
+8.0.0|usenglishmale|QUICK DISCONNECT Button
+8.0.1|usenglishfemale|PRESS
+8.0.2|usenglishmale|PUSHER CUTOUT Button
+8.0.3|usenglishfemale|Push In
+
+9.0|ukenglishmale|Landing Gear Cannot Be Moved Up
+9.0.0|usenglishmale|Down Lock Release Button
+9.0.1|usenglishfemale|PRESS
+9.0.2|usenglishmale|Landing GEAR Lever
+9.0.3|usenglishfemale|Up
+
+10.0|ukenglishmale|Cabin Altitude High
+10.0.0|usenglishmale|Crew Oxygen Masks
+10.0.1|usenglishfemale|Don, 100%
+10.0.2|usenglishmale|Communication
+10.0.3|usenglishfemale|ESTABLISH
+10.0.4|usenglishmale|SIGNS and OUTLET Switch
+10.0.5|usenglishfemale|PEDs BELTS, Off
+10.0.6|usenglishmale|Altitude Selector
+10.0.7|usenglishfemale|10,000 feet or MEA
+10.0.8|usenglishmale|Thrust Levers
+10.0.9|usenglishfemale|IDLE
+10.0.10|usenglishmale|SPEED BRAKE Switch
+10.0.11|usenglishfemale|OPEN
+10.0.12|usenglishmale|Airspeed
+10.0.13|usenglishfemale|250, MMO MAXIMUM
+10.0.14|usenglishmale|Landing GEAR Lever
+10.0.15|usenglishfemale|Down
+10.0.16|usenglishmale|Transponder
+10.0.17|usenglishfemale|Seventy Seven Hundred
+10.0.18|usenglishmale|ATC
+10.0.19|usenglishfemale|NOTIFY
+
+11.0|ukenglishmale|Electrical Emergency
+11.0.0|usenglishmale|Pressurization MODE Switch
+11.0.1|usenglishfemale|Manual
+11.0.2|usenglishmale|CABIN Altitude Switch
+11.0.3|usenglishfemale|HOLD Down for 10 SECONDS
+
+12.0|ukenglishmale|Electrical Emergency Transfer Fail
+12.0.0|usenglishmale|Electrical Emergency Button
+12.0.1|usenglishfemale|Push In
+
+13.0|ukenglishmale|Smoke Fire Fumes
+13.0.0|usenglishmale|Crew Oxygen Masks
+13.0.1|usenglishfemale|Don, Emergency THEN 100%
+13.0.2|usenglishmale|Oxygen Mask Dilution Valve
+13.0.3|usenglishfemale|CLOSED
+13.0.4|usenglishmale|Smoke Goggles
+13.0.5|usenglishfemale|Don
+13.0.6|usenglishmale|Communication
+13.0.7|usenglishfemale|ESTABLISH
+13.0.8|usenglishmale|Pressurization DUMP Button
+13.0.9|usenglishfemale|Push In
+
+14.0|ukenglishmale|Smoke Evacuation
+14.0.0|usenglishmale|Crew Oxygen Masks
+14.0.1|usenglishfemale|Don, Emergency THEN 100%
+14.0.2|usenglishmale|Oxygen Mask Dilution Valve
+14.0.3|usenglishfemale|CLOSED
+14.0.4|usenglishmale|Smoke Goggles
+14.0.5|usenglishfemale|Don
+14.0.6|usenglishmale|Communication
+14.0.7|usenglishfemale|ESTABLISH
+14.0.8|usenglishmale|Oxygen SUPPLY CONTROL Knob
+14.0.9|usenglishfemale|CREW ONLY
+14.0.10|usenglishmale|Pressurization DUMP Button
+14.0.11|usenglishfemale|Push In
+14.0.12|usenglishmale|ECS Knob
+14.0.13|usenglishfemale|Off VENT
+
+15.0|ukenglishmale|"Jip-wiz" Warning
+15.0.0|usenglishmale|Takeoff Go Around Button
+15.0.1|usenglishfemale|PRESS
+15.0.2|usenglishmale|Thrust
+15.0.3|usenglishfemale|Max
+15.0.4|usenglishmale|Pitch
+15.0.5|usenglishfemale|INCREASE TO AVOID TERRAIN
+15.0.6|usenglishmale|Flaps
+15.0.7|usenglishfemale|1
+15.0.8|usenglishmale|Landing Gear
+15.0.9|usenglishfemale|Up
+15.0.10|usenglishmale|Flaps
+15.0.11|usenglishfemale|Up
+
+16.0|ukenglishmale|Windshear
+16.0.0|usenglishmale|Takeoff Go Around Button
+16.0.1|usenglishfemale|PRESS
+16.0.2|usenglishmale|Thrust
+16.0.3|usenglishfemale|Max
+16.0.4|usenglishmale|Pitch
+16.0.5|usenglishfemale|INCREASE TO ARREST DESCENT
+16.0.6|usenglishmale|Configuration
+16.0.7|usenglishfemale|DO Not CHANGE UNTIL SAFETY IS ASSURED
